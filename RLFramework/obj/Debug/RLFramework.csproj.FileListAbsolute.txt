@@ -1,0 +1,8 @@
+c:\users\将文\Dropbox\vsproject\RLFramework\RLFramework\bin\Debug\RLFramework.exe.config
+c:\users\将文\Dropbox\vsproject\RLFramework\RLFramework\bin\Debug\RLFramework.exe
+c:\users\将文\Dropbox\vsproject\RLFramework\RLFramework\bin\Debug\RLFramework.pdb
+c:\users\将文\Dropbox\vsproject\RLFramework\RLFramework\obj\Debug\RLFramework.csprojResolveAssemblyReference.cache
+c:\users\将文\Dropbox\vsproject\RLFramework\RLFramework\obj\Debug\RLFramework.exe
+c:\users\将文\Dropbox\vsproject\RLFramework\RLFramework\obj\Debug\RLFramework.pdb
+c:\users\将文\Dropbox\vsproject\RLFramework\RLFramework\bin\Debug\MyRandom.exe
+c:\users\将文\Dropbox\vsproject\RLFramework\RLFramework\bin\Debug\MyRandom.pdb
